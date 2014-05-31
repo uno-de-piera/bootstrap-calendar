@@ -1,0 +1,32 @@
+{
+  "name": "bootstrap-calendar",
+  "version": "0.2.3",
+  "main": [
+    "./js/language/en-GB.js",
+    "./js/calendar.js",
+    "./css/calendar.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "less"
+  ],
+  "dependencies": {
+    "jquery": "~1.10.2",
+    "bootstrap": "~2.3.1",
+    "underscore": "~1.4.4",
+    "moment": "~2.0.0"
+  },
+  "homepage": "https://github.com/Serhioromano/bootstrap-calendar",
+  "_release": "0.2.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.2.3",
+    "commit": "a91858e90a13027fc07489adadab626c91ea7b28"
+  },
+  "_source": "git://github.com/Serhioromano/bootstrap-calendar.git",
+  "_target": "~0.2.3",
+  "_originalSource": "bootstrap-calendar",
+  "_direct": true
+}
