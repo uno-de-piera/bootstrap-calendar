@@ -26,6 +26,7 @@ class Events extends CI_Controller {
         {
         	$this->load->model("events_model");
         	$this->events_model->add();
+        	redirect("calendar");
         }
 	}
 
